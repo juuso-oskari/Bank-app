@@ -1,0 +1,27 @@
+2019-12-01 21:20:39 <server> Creating TCP/IP-socket.
+2019-12-01 21:20:39 <server> Waiting for client to join.
+2019-12-01 21:20:39 <server> Client connecting...
+2019-12-01 21:20:41 <server> Created 10 server threads.
+2019-12-01 21:20:41 <server> Client joined! Now waiting for requests from client.
+2019-12-01 21:20:52 <server> Received request c 1 200 from client.
+2019-12-01 21:20:52 <server> Directing request to server 0.
+2019-12-01 21:20:52 <server> Server 0 starting to process request c 1 200.
+2019-12-01 21:20:59 <server> Received request c 2 300 from client.
+2019-12-01 21:20:59 <server> Directing request to server 0.
+2019-12-01 21:20:59 <server> Server 0 starting to process request c 2 300.
+2019-12-01 21:21:03 <server> Received request c 4 5005 from client.
+2019-12-01 21:21:03 <server> Directing request to server 0.
+2019-12-01 21:21:03 <server> Server 0 starting to process request c 4 5005.
+2019-12-01 21:21:07 <server> Received request l 4  from client.
+2019-12-01 21:21:07 <server> Directing request to server 0.
+2019-12-01 21:21:07 <server> Server 0 starting to process request l 4 .
+2019-12-01 21:21:07 <server> Account id: 4, balance: 5005.000000
+
+2019-12-01 21:21:21 <server> Received request l mikko from client.
+2019-12-01 21:21:21 <server> Directing request to server 0.
+2019-12-01 21:21:21 <server> Server 0 starting to process request l mikko.
+2019-12-01 21:21:21 <server> No account with id mikko created!
+
+2019-12-01 21:21:34 <server> Received request e from client.
+2019-12-01 21:21:34 <server> Client exited the bank!
+2019-12-01 21:21:34 <server> Closing the TCP/IP-socket.

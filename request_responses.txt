@@ -1,0 +1,8 @@
+
+
+This terminal is opened for outputting server responses to your requests
+
+Server sent response: Account id: 4, balance: 5005.000000
+
+Server sent response: No account with id mikko created!
+
